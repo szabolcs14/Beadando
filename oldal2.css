@@ -1,0 +1,32 @@
+h3 {
+    text-align:center;
+    color:orange;
+    font-size:40px;
+  }
+  body {
+    background-color:lightblue;
+  }
+  .div1 {
+   font-size:20px;
+   color:orange;
+   border-style:dashed;
+   border-color:blue yellow white red;  
+  }
+  .div2 {
+    font-size:20px;
+    border-style:solid;
+    border-color:red white green;
+    color:orange;  
+  }
+  .div3 {
+    font-size:20px;
+    border-style:solid;
+    border-color:red white green;
+    color:orange;  
+  }
+  .div4{
+   font-size:20px;
+    border-style:solid;
+    border-color:red white green;
+    color:orange;    
+  }
