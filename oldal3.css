@@ -1,0 +1,39 @@
+h3 {
+    text-align:center;
+    color:brown;
+    font-size:40px;
+  }
+  #foci {
+    text-align:center;
+    font-size:25px;
+    border-style:solid;
+    border-color:green;
+    margin:100px;
+    padding:25px;
+  }
+  a:link{
+    color:red;
+    text-decoration:none;
+  }
+  #kosar {
+    text-align:center;
+    font-size:25px;
+    border-style:solid;
+    border-color:green;
+    margin:100px;
+    padding:25px;
+  }
+  #kezi {
+    text-align:center;
+    font-size:25px;
+    border-style:solid;
+    border-color:green;
+    margin:100px;
+    padding:25px;
+  }
+  body {
+    background-color:lightyellow
+  }
+  p {
+    color:brown;
+  }
